@@ -1,2 +1,1 @@
-# C-kursunda-yazilan-kodlar
-C kursunda yazdığımız kodlardan bir kısmı
+Necati Ergin'in verdiği kursta ders sırasında yazılan kodlar yer alıyor.
