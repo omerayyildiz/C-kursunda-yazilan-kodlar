@@ -8,7 +8,7 @@ int main()
 	int ival, retval;
 	char buffer[200];
 
-	if ((f = fopen("asal1000.txt", "r")) == NULL) {
+	if ((f = fopen("dosya17.txt", "r")) == NULL) {
 		fprintf(stderr, "dosya acilamadi\n");
 		return 1;
 	}
