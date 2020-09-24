@@ -1,14 +1,14 @@
-#define _CRT_SECURE_NO_WARNINGS
-
 #include <stdio.h>
+
+#define   BUFFER_SIZE      400
 
 int main()
 {
 	FILE *f;
 	int ival, retval;
-	char buffer[200];
+	char buffer[BUFFER_SIZE];
 
-	if ((f = fopen("dosya17.txt", "r")) == NULL) {
+	if ((f = fopen("asal1000.txt", "r")) == NULL) {
 		fprintf(stderr, "dosya acilamadi\n");
 		return 1;
 	}
