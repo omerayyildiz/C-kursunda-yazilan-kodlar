@@ -1,3 +1,6 @@
+// feof fonksiyonunun ne iş yaptığını ve nasıl çalıştığını
+// göstermek için yazılmış bir program
+
 #include <stdio.h>
 
 void print_eof_flag(FILE *f)
