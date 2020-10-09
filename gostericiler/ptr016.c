@@ -7,8 +7,8 @@ int main()
 
 	//&10    gecersiz
 	//&(x + 5)   gecersiz
-  //&+x   gecersiz
+ 	//&+x   gecersiz
 	&x;   //gecerli
 	&dval;   //gecerli
-  &(x);   //gecerli
+  	&(x);   //gecerli
 }
