@@ -7,8 +7,8 @@ int main()
 }
 
 
-ifade				data type				value category
-=========           ==========              ==============
+ifade			data type		value category
+=========		=========		===============
   x						int							L
   &x					int *						R
   p						int *						L
