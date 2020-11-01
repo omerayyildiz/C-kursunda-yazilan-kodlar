@@ -13,8 +13,8 @@ ifade			data type		value category
   &x			int *				R
   p			int *				L
   *p			int				L
-  &p					int**R
-  ptr					int**L
-  *ptr					int*L
-  **ptr					intL
-  &ptr					int***R
+  &p			int**				R
+  ptr			int**				L
+  *ptr			int*				L
+  **ptr			int				L
+  &ptr			int***				R
